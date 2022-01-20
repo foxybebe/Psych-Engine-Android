@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				126,
+				101
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "DAVI idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				118,
+				65
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "DAVI LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				91,
+				39
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "DAVI DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				95,
+				125
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "DAVI UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				73,
+				97
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "DAVI RIGHT",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/davi",
+	"position": [
+		60,
+		210
+	],
+	"healthicon": "face",
+	"flip_x": true,
+	"healthbar_colors": [
+		175,
+		0,
+		0
+	],
+	"camera_position": [
+		-50,
+		160
+	],
+	"sing_duration": 4,
+	"scale": 0.6
+}
