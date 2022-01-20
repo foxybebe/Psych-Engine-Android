@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Davi.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	
+	<SubTexture name="DAVI DOWN0000" x="41" y="934" width="738" height="902" frameX="-1" frameY="-5" frameWidth="380" frameHeight="369"/>
+	<SubTexture name="DAVI DOWN0001" x="776" y="951" width="738" height="880" frameX="-1" frameY="-5" frameWidth="380" frameHeight="369"/>
+	<SubTexture name="DAVI DOWN0002" x="1521" y="961" width="728" height="868" frameX="0" frameY="0" frameWidth="380" frameHeight="369"/>
+	<SubTexture name="DAVI LEFT0000" x="843" y="55" width="720" height="843" frameX="0" frameY="0" frameWidth="385" frameHeight="409"/>
+	<SubTexture name="DAVI LEFT0001" x="1606" y="50" width="720" height="854" frameX="0" frameY="0" frameWidth="385" frameHeight="409"/>
+	<SubTexture name="DAVI LEFT0002" x="2351" y="51" width="719" height="852" frameX="-11" frameY="-2" frameWidth="385" frameHeight="409"/>
+	<SubTexture name="DAVI RIGHT0000" x="1524" y="1859" width="783" height="958" frameX="-2" frameY="-2" frameWidth="405" frameHeight="410"/>
+	<SubTexture name="DAVI RIGHT0001" x="2345" y="1860" width="804" height="958" frameX="-2" frameY="-2" frameWidth="405" frameHeight="410"/>
+	<SubTexture name="DAVI RIGHT0002" x="49" y="2855" width="827" height="956" frameX="0" frameY="0" frameWidth="405" frameHeight="410"/>
+	<SubTexture name="DAVI UP0000" x="2354" y="912" width="718" height="920" frameX="-6" frameY="0" frameWidth="376" frameHeight="447"/>
+	<SubTexture name="DAVI UP0001" x="54" y="1875" width="701" height="941" frameX="-6" frameY="0" frameWidth="376" frameHeight="447"/>
+	<SubTexture name="DAVI UP0002" x="793" y="1863" width="705" height="953" frameX="0" frameY="-5" frameWidth="376" frameHeight="447"/>
+	<SubTexture name="DAVI idle0000" x="0" y="0" width="791" height="924" frameX="-1" frameY="-20" frameWidth="411" frameHeight="416"/>
+</TextureAtlas>
